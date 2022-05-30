@@ -1,6 +1,6 @@
 ---
 title: Password Manager
-date: 2020-05-20
+date: 2020-05-20 12:00:00 -700
 categories: [guides,software]
 tags: [guides,staysafe]
 ---
