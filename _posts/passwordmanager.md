@@ -1,8 +1,8 @@
 ---
 title: Password Manager
 date: 2020-05-20
-categories: [step by step guides]
-tags: [staying safe on the internet,pasword manager]
+categories: [guides,software]
+tags: [guides,staysafe]
 ---
 
 # Password Managers
