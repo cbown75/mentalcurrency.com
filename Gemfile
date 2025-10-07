@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.0"
+gem "jekyll-theme-chirpy", "~> 5.2", ">= 5.2.0"
 
 group :test do
   gem "html-proofer", "~> 4.0", ">= 4.0.0"
@@ -12,7 +12,7 @@ end
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
+  gem "tzinfo-data", ">= 1.2022.2"
 end
 
 # Performance-booster for watching directories on Windows
